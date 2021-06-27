@@ -1,5 +1,5 @@
 <h1><p align="center">Hello, I'm Amit Kumar Shaw <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<h3 align="center">A Proud Indian | Python Developer | AutoCad Designer</h3>
+<h3 align="center">A Proud Indian | Mechanical Engineer | AutoCad Designer</h3>
 
 <p align="right">
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
