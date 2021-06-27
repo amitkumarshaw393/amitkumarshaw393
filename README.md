@@ -31,7 +31,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=amitkumarshaw393&show_icons=true&locale=en" alt="amitkumarshaw393">
   
 </p>
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="" /></a></p><br><br>
 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
