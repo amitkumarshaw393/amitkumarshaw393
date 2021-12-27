@@ -16,7 +16,7 @@
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React and ES6.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
-- 👯 I’m looking to collaborate on CAD/CAM Designing Projects.
+- 👯 I’m looking to collaborate on Web Dev Projects.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [shawamit393@gmail.com](mailto:shawamit393@gmail.com).
