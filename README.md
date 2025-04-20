@@ -15,7 +15,7 @@
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently working in Capgemini.
-- 💼 I’m pursuing a Bachelor's degree in Software Engineer.
+- 💼 I’m working as a Software Engineer.
 - 👯 I’m looking to collaborate on FullStack Developer Projects.
 - 🤔 I’m looking for help with new Technologies.
 - 💬 Ask me about anything, I love to answer!
