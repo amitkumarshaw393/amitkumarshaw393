@@ -12,7 +12,7 @@
 
 <!-- About Me -->
 ### 💡 About Me
-- 🔭 Currently working at **Capgemini** as a Software Engineer.  
+- 🔭 Currently working at **Capgemini** as a Sr. Software Engineer.  
 - 🌱 Passionate about **Java, Spring Boot, Microservices, and Cloud Technologies**.  
 - 👯 Open to collaborate on **Java/Spring Boot projects** & **Full Stack applications**.  
 - 📫 Reach me at **shawamit393@gmail.com**  
